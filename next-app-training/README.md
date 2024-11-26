@@ -7,7 +7,7 @@ Download this folder and open with VS Code. Make sure you have Node.js installed
 First, install the dependincies for this project by opening the terminal in VS Code and running:
 
 ```bash
-npm -install
+npm i
 ```
 
 Next, run the development server:
