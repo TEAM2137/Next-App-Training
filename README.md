@@ -12,14 +12,14 @@ Training Repository for using Next.js to create our new Scouting applicaiton.
   <li>Application Framework: <a href="https://nextjs.org/docs">Nextjs</a> (which utilizes <a href="https://react.dev/">Reactjs</a> for the client side application and <a href="https://tailwindcss.com/">TailwindsCSS</a> for design and styling of the app.</li>
   <li>Chart Data Visualization: <a href="https://recharts.org/en-US/examples">Recharts</a></li>
   <li>Data Interaction: <a href="https://www.prisma.io/orm">Prisma ORM (opensource version)</a></li>
-  <li>Database: <a href="https://mariadb.com/products/community-server/">MySQL (actually now MariaDB is what most hosting provider use and call MySQL)</a></li>
+  <li>Database: <a href="https://mariadb.com/products/community-server/">MySQL (actually now MariaDB is what most hosting providers use and call MySQL)</a> working on switchnig to <a href="https://www.mongodb.com/">MongoDB</a> for our app development.</li>
   <li>Authentication: <a href="https://jwt.io/">JWT (JSON Web Tokens, not utilized in the demos above)</a></li>
   <li>Image Storage (captured from pit scouting): <a href="https://dev.to/adrianbailador/uploading-images-in-nextjs-file-uploads-filestack-47od">Local FIlesystem (not utilized in the demos above)</a></li>
   <li>Resizing Images (captured from pit scouting): <a href="https://www.npmjs.com/package/sharp">Sharp (also not a part of the demos)</a></li>
   <li>FRC Data API (for pulling in team, event, match data to our application): <a href="https://frc-api-docs.firstinspires.org/">FIRST</a> or <a href="https://www.thebluealliance.com/apidocs/v3">The Blue Alliance</a></li>
 </ul>
 <h2>General Reference</h2>
-<p>Not sure where most of you are starting from. Here are some more general tutorials for the basics. If you don't know javascript but have worked with another language like python you should be able to pick it up pretty quickly. I put forward the tutorials above because they show most of what you will be doing and you can pick up Javascript, CSS, and HTML along the way. <a href="https://www.youtube.com/@LamaDev">LamaDev</a> and <a href="https://www.youtube.com/@NetNinja">Net Ninja</a> have lots of great tutroials on a variety of topics for Node.js based web-app development. We can also discuss along the way why I have picked the technologies in the list above.</p>
+<p>Not sure where most of you are starting from. Here are some more general tutorials for the basics. If you don't know javascript but have worked with another language like python you should be able to pick it up pretty quickly. I put forward the tutorials above because they show most of what you will be doing and you can pick up Javascript, CSS, and HTML along the way. <a href="https://www.youtube.com/@javascriptmastery">Javascript Mastery</a>, <a href="https://www.youtube.com/@LamaDev">LamaDev</a> and <a href="https://www.youtube.com/@NetNinja">Net Ninja</a> have lots of great tutroials on a variety of topics for Node.js based web-app development. We can also discuss along the way why I have picked the technologies in the list above.</p>
 <ul>
   <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc">Modern Javascript Tutorial</a></li>
   <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G">HTML & CSS Crash Course</a></li>
